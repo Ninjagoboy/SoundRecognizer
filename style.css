@@ -1,0 +1,18 @@
+body{
+    font-family: 'Cedarville Cursive', cursive; 
+    font-family: 'Dancing Script', cursive; 
+    font-family: 'Permanent Marker', cursive;
+    background-color: rgba(76, 0, 255, 0.834);
+}
+.heading{
+font-size: 20px;
+letter-spacing: 2px;
+font-weight: bold;
+margin: 40px;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
